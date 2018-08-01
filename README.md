@@ -1,7 +1,7 @@
 # async-client
 Asynchronous C++ HTTP client.
 
-# This is Work In Progress for Practise.
+# This is Work In Progress for Practice.
 
 - Idea is to implement a Go http.Client like library in C++11  and later.
 
