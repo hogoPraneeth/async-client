@@ -5,7 +5,7 @@ Asynchronous C++ HTTP client.
 
 - Idea is to implement a Go http.Client like library in C++11  and later.
 
-#Behavior:
+# Behavior:
 
 - Client is a class that holds all the connections initiated from the process using this
   client instance.
